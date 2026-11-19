@@ -1,0 +1,36 @@
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    expose:
+      - "3000"
+    environment:
+      NODE_ENV: production
+      PORT: 3000
+      SESSION_SECRET: ${SESSION_SECRET:?Set SESSION_SECRET in Coolify}
+      DATABASE_URL: postgresql://leesheld:${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in Coolify}@db:5432/leesheld?schema=public
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3000/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 60s
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: leesheld
+      POSTGRES_USER: leesheld
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in Coolify}
+    volumes:
+      - leesheld_pg:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U leesheld -d leesheld"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+volumes:
+  leesheld_pg:

@@ -1,0 +1,1744 @@
+[
+  {
+    "id": "bijen",
+    "title": "Het geheime leven van bijen",
+    "topic": "Natuur",
+    "level": "Makkelijk",
+    "icon": "🐝",
+    "mins": 5,
+    "story": "Op een zonnige ochtend vliegt een honingbij uit haar korf. Ze zoekt bloemen met nectar. Nectar is een zoete vloeistof die bloemen maken. De bij zuigt de nectar op met haar tong en bewaart deze in haar honingmaag.\n\nWanneer de bij terugkomt bij de korf, geeft ze de nectar door aan andere bijen. Die bewerken de vloeistof. Uiteindelijk ontstaat er honing. Bijen gebruiken honing als voedsel, vooral wanneer er buiten weinig bloemen bloeien.\n\nBijen zijn ook belangrijk voor planten. Terwijl ze van bloem naar bloem vliegen, nemen ze stuifmeel mee. Zo helpen ze planten om nieuwe zaden en vruchten te maken. Zonder bijen zouden veel planten en voedselgewassen het moeilijk krijgen.",
+    "questions": [
+      [
+        "Waarom vliegt de honingbij naar bloemen?",
+        [
+          "Om nectar te verzamelen",
+          "Om water te zoeken",
+          "Om takjes te halen"
+        ],
+        0,
+        "In de eerste alinea staat dat de bij bloemen bezoekt om nectar te verzamelen."
+      ],
+      [
+        "Wat betekent bestuiven in deze tekst?",
+        [
+          "Bloemen water geven",
+          "Stuifmeel van bloem naar bloem brengen",
+          "Honing maken"
+        ],
+        1,
+        "De bij neemt stuifmeel mee naar andere bloemen. Dat helpt planten bij het maken van zaden en vruchten."
+      ],
+      [
+        "Wat is de belangrijkste boodschap van de tekst?",
+        [
+          "Bijen zijn gevaarlijk",
+          "Bijen maken alleen honing",
+          "Bijen zijn belangrijk voor honing én planten"
+        ],
+        2,
+        "De tekst vertelt zowel over honing maken als over de rol van bijen bij planten."
+      ]
+    ]
+  },
+  {
+    "id": "ruimte",
+    "title": "Een hotel in de ruimte?",
+    "topic": "Wetenschap",
+    "level": "Gemiddeld",
+    "icon": "🚀",
+    "mins": 7,
+    "story": "Stel je voor: je kijkt uit je slaapkamerraam en ziet geen straat of tuin, maar de aarde die langzaam onder je voorbij draait. Dat klinkt als een scène uit een film, maar wetenschappers onderzoeken serieus of mensen ooit in een hotel in de ruimte kunnen overnachten.\n\nZo'n ruimtestation moet aan veel eisen voldoen. Er moet zuurstof zijn, voldoende water en bescherming tegen kleine stukjes ruimtepuin. Ook is gewichtloosheid lastig. Een gewone douche werkt bijvoorbeeld niet, omdat water niet vanzelf naar beneden stroomt. Waterdruppels zweven dan door de ruimte.\n\nToch zijn er ook voordelen. Vanuit de ruimte kun je de aarde goed bekijken. Onderzoekers kunnen er experimenten uitvoeren die op aarde moeilijk zijn. Een ruimtevakantie zal voorlopig waarschijnlijk erg duur blijven. Eerst moeten de techniek en de veiligheid veel verder worden verbeterd.",
+    "questions": [
+      [
+        "Wat is het belangrijkste doel van de eerste alinea?",
+        [
+          "Een ruimtestation beschrijven",
+          "De lezer nieuwsgierig maken naar een ruimtevakantie",
+          "Uitleggen hoe een raket werkt"
+        ],
+        1,
+        "De schrijver begint met een voorstelling om je nieuwsgierig te maken naar het onderwerp."
+      ],
+      [
+        "Waarom werkt een gewone douche niet goed in de ruimte?",
+        [
+          "Er is geen warm water",
+          "Water stroomt te snel",
+          "Water zweeft door gewichtloosheid"
+        ],
+        2,
+        "In de tweede alinea staat dat waterdruppels niet vanzelf naar beneden vallen."
+      ],
+      [
+        "Wat bedoelt de schrijver met “voorlopig”?",
+        [
+          "Op dit moment en in de nabije toekomst",
+          "Heel lang geleden",
+          "Nooit meer"
+        ],
+        0,
+        "Voorlopig betekent dat iets nu nog zo is, maar later kan veranderen."
+      ],
+      [
+        "Welke tekstsoort past het beste bij deze tekst?",
+        [
+          "Een recept",
+          "Een informatieve tekst",
+          "Een sprookje"
+        ],
+        1,
+        "De tekst geeft feiten en uitleg over een mogelijk ruimtestation."
+      ]
+    ]
+  },
+  {
+    "id": "stad",
+    "title": "Waarom hebben steden parken?",
+    "topic": "Samenleving",
+    "level": "Gemiddeld",
+    "icon": "🌳",
+    "mins": 6,
+    "story": "Midden in een drukke stad ligt soms een groen park. Je ziet er kinderen spelen, mensen wandelen en vogels zoeken naar voedsel. Een park lijkt misschien vooral een fijne plek om uit te rusten, maar het heeft veel meer functies.\n\nBomen geven schaduw op warme dagen. Ze nemen bovendien een deel van het koolstofdioxide uit de lucht op. Planten en bomen bieden dieren een plek om te leven. Ook kan regenwater in de grond zakken, waardoor straten minder snel onder water komen te staan.\n\nEen park brengt mensen bij elkaar. Buurtbewoners ontmoeten elkaar op een bankje of tijdens het sporten. Daarom proberen veel gemeenten groen in de stad te behouden. Een park is dus niet alleen mooi, maar ook nuttig voor mens, dier en milieu.",
+    "questions": [
+      [
+        "Wat is de hoofdgedachte van de tekst?",
+        [
+          "Parken zijn alleen bedoeld om te sporten",
+          "Stadsparken zijn op verschillende manieren nuttig",
+          "In steden wonen geen dieren"
+        ],
+        1,
+        "Alle alinea’s noemen voordelen van parken voor mensen, dieren en milieu."
+      ],
+      [
+        "Waar verwijst “Ze” naar in de tweede alinea?",
+        [
+          "De straten",
+          "De gemeenten",
+          "Bomen"
+        ],
+        2,
+        "De zin ervoor gaat over bomen; zij geven schaduw en nemen koolstofdioxide op."
+      ],
+      [
+        "Waarom kan een park wateroverlast helpen voorkomen?",
+        [
+          "Regenwater kan in de grond zakken",
+          "Er staan veel bankjes",
+          "Mensen wandelen er"
+        ],
+        0,
+        "De tekst noemt dat regenwater in de grond kan zakken."
+      ]
+    ]
+  },
+  {
+    "id": "vulkaan",
+    "title": "De slapende reus",
+    "topic": "Aarde",
+    "level": "Moeilijk",
+    "icon": "🌋",
+    "mins": 8,
+    "story": "Een vulkaan die jarenlang niets van zich laat horen, wordt soms een slapende vulkaan genoemd. Dat betekent niet dat hij voorgoed veilig is. Diep onder de grond kan magma langzaam bewegen. Magma is gesmolten gesteente dat zich onder het aardoppervlak bevindt.\n\nWanneer magma stijgt, kunnen gassen zich ophopen. De druk neemt dan toe. Soms ontsnapt het gas zonder grote uitbarsting. In andere gevallen wordt de druk zo groot dat as, stenen en lava naar buiten worden geslingerd. Wetenschappers meten daarom voortdurend kleine veranderingen rond vulkanen.\n\nMet meetapparatuur kunnen onderzoekers trillingen, gas en veranderingen in de vorm van een berg waarnemen. Zo proberen ze een uitbarsting op tijd te herkennen. Helemaal precies voorspellen wanneer een vulkaan uitbarst, blijft moeilijk. De natuur laat zich niet altijd in een agenda zetten.",
+    "questions": [
+      [
+        "Wat betekent “slapende vulkaan” volgens de tekst?",
+        [
+          "Een vulkaan die nooit meer uitbarst",
+          "Een vulkaan die al eeuwen verdwenen is",
+          "Een vulkaan die momenteel weinig activiteit toont"
+        ],
+        2,
+        "De tekst zegt dat hij lang niets laat horen, maar nog actief kan worden."
+      ],
+      [
+        "Waarom meten wetenschappers veranderingen rond vulkanen?",
+        [
+          "Om een mogelijke uitbarsting te herkennen",
+          "Om de berg hoger te maken",
+          "Om magma af te koelen"
+        ],
+        0,
+        "Metingen helpen signalen van mogelijke activiteit op te merken."
+      ],
+      [
+        "Wat is de functie van de laatste zin?",
+        [
+          "Een grapje of beeldspraak gebruiken om de uitleg af te sluiten",
+          "Een nieuwe vulkaan introduceren",
+          "Een stappenplan geven"
+        ],
+        0,
+        "De agenda is beeldspraak: een uitbarsting is niet exact te plannen."
+      ],
+      [
+        "Welke conclusie kun je trekken?",
+        [
+          "Een slapende vulkaan is altijd ongevaarlijk",
+          "Metingen kunnen helpen waarschuwen, maar voorspellen blijft lastig",
+          "Alle vulkanen barsten tegelijk uit"
+        ],
+        1,
+        "De tekst benadrukt dat onderzoekers signalen meten, maar exacte voorspellingen moeilijk blijven."
+      ]
+    ]
+  },
+  {
+    "id": "plastic",
+    "title": "De reis van een plastic fles",
+    "topic": "Milieu",
+    "level": "Moeilijk",
+    "icon": "♻️",
+    "mins": 8,
+    "story": "Na een slok water gooit iemand een lege plastic fles in de afvalbak. Voor die fles begint dan een nieuwe reis. Als de fles bij het plastic afval terechtkomt, kan hij worden ingezameld en naar een sorteercentrum worden gebracht.\n\nDaar worden verschillende soorten plastic uit elkaar gehaald. Daarna wordt het materiaal schoongemaakt en in kleine stukjes vermalen. Die stukjes kunnen worden verwerkt tot korrels. Fabrieken gebruiken de korrels als grondstof voor nieuwe producten, soms zelfs voor nieuwe flessen.\n\nRecyclen bespaart grondstoffen, maar het kost ook energie en niet iedere verpakking kan opnieuw worden gebruikt. Daarom is minder plastic gebruiken minstens zo belangrijk. Een herbruikbare drinkfles kan bijvoorbeeld veel wegwerpflesjes vervangen.",
+    "questions": [
+      [
+        "Wat gebeurt er nadat plastic is gesorteerd?",
+        [
+          "Het wordt meteen verbrand",
+          "Het wordt schoongemaakt en vermalen",
+          "Het verandert vanzelf in glas"
+        ],
+        1,
+        "De tweede alinea beschrijft schoonmaken en vermalen na het sorteren."
+      ],
+      [
+        "Wat betekent “grondstof” in deze tekst?",
+        [
+          "Materiaal waarmee iets nieuws gemaakt wordt",
+          "Een soort afvalbak",
+          "Een fles die kapot is"
+        ],
+        0,
+        "De plastic korrels zijn materiaal dat fabrieken gebruiken om nieuwe producten te maken."
+      ],
+      [
+        "Waarom is minder plastic gebruiken ook belangrijk?",
+        [
+          "Omdat recyclen helemaal niet bestaat",
+          "Omdat recyclen energie kost en niet alles opnieuw kan",
+          "Omdat plastic altijd oplost in water"
+        ],
+        1,
+        "De laatste alinea noemt de beperkingen van recyclen."
+      ]
+    ]
+  },
+  {
+    "id": "vos",
+    "title": "De vos bij maanlicht",
+    "topic": "Dieren",
+    "level": "Makkelijk",
+    "icon": "🦊",
+    "mins": 5,
+    "story": "Wanneer de meeste mensen slapen, wordt de vos vaak actief. Hij sluipt door velden en langs bosranden op zoek naar eten. Zijn grote oren helpen hem om kleine geluiden op te vangen. Zelfs een muis onder bladeren kan hij soms horen.\n\nEen vos eet niet alleen muizen. Ook insecten, bessen en soms eieren staan op het menu. Daardoor past hij zijn maaltijd aan aan wat er in zijn omgeving te vinden is.\n\nOverdag rust de vos meestal in een beschutte plek. Dat kan een hol zijn, maar soms kiest hij een rustige plek tussen struiken. Zodra het donker wordt, gaat hij weer op pad.",
+    "questions": [
+      [
+        "Wanneer is de vos vaak actief?",
+        [
+          "Midden op de dag",
+          "Vooral wanneer het donker is",
+          "Alleen in de winter"
+        ],
+        1,
+        "De eerste en laatste alinea vertellen dat de vos vaak ’s nachts actief is."
+      ],
+      [
+        "Wat laat de tweede alinea zien?",
+        [
+          "De vos eet verschillende soorten voedsel",
+          "De vos eet alleen muizen",
+          "De vos leeft alleen in bomen"
+        ],
+        0,
+        "Er worden muizen, insecten, bessen en eieren genoemd."
+      ],
+      [
+        "Wat betekent “beschut”?",
+        [
+          "Op een drukke plek",
+          "Goed beschermd of uit de wind",
+          "Heel hoog"
+        ],
+        1,
+        "Een beschutte plek biedt bescherming en rust."
+      ]
+    ]
+  },
+  {
+    "id": "extra01",
+    "title": "De slimme octopus",
+    "topic": "Dieren",
+    "level": "Gemiddeld",
+    "icon": "🐙",
+    "mins": 6,
+    "story": "Een octopus heeft acht armen en een bijzonder slim brein. Hij kan potten openen, ingewikkelde doolhoven oplossen en zich verstoppen door de kleur en structuur van zijn huid te veranderen. Dat doet hij met speciale cellen die licht en kleur beïnvloeden.\n\nEen octopus heeft geen botten. Daardoor kan hij door openingen kruipen die nauwelijks groter zijn dan zijn snavel. Die snavel is hard en lijkt een beetje op de snavel van een papegaai.\n\nOnderzoekers ontdekken nog steeds nieuwe dingen over octopussen. Sommige dieren herkennen zelfs mensen die hen verzorgen. Dat maakt de octopus een van de opvallendste dieren in de oceaan.",
+    "questions": [
+      [
+        "Hoe kan een octopus zich goed verstoppen?",
+        [
+          "Door zijn huid van kleur en structuur te laten veranderen",
+          "Door onder water te slapen",
+          "Door zand te eten"
+        ],
+        0,
+        "Speciale huidcellen helpen de octopus om zijn uiterlijk aan te passen."
+      ],
+      [
+        "Waarom kan een octopus door kleine openingen kruipen?",
+        [
+          "Hij heeft geen armen",
+          "Hij heeft geen botten",
+          "Hij kan zijn snavel intrekken"
+        ],
+        1,
+        "Zonder botten kan zijn lichaam door nauwe openingen bewegen."
+      ],
+      [
+        "Wat is de hoofdgedachte?",
+        [
+          "Octopussen zijn gevaarlijk",
+          "Octopussen zijn bijzondere en slimme dieren",
+          "Alle zeedieren kunnen van kleur veranderen"
+        ],
+        1,
+        "De tekst noemt verschillende bijzondere eigenschappen van octopussen."
+      ]
+    ]
+  },
+  {
+    "id": "extra02",
+    "title": "Een brief uit het verleden",
+    "topic": "Geschiedenis",
+    "level": "Makkelijk",
+    "icon": "✉️",
+    "mins": 6,
+    "story": "Lang voordat mensen e-mails stuurden, brachten postbodes brieven rond. In sommige tijden reisden brieven dagen of zelfs weken voordat ze aankwamen. Ze gingen mee met koetsen, schepen of ruiters.\n\nEen brief was vroeger vaak bijzonder nieuws. Papier was niet overal goedkoop en veel mensen konden niet lezen of schrijven. Daarom hielpen schrijvers soms anderen met het opstellen van een brief.\n\nTegenwoordig kan een bericht binnen enkele seconden aan de andere kant van de wereld aankomen. Toch schrijven mensen nog steeds kaarten en brieven, bijvoorbeeld voor een verjaardag.",
+    "questions": [
+      [
+        "Hoe werden brieven vroeger vervoerd?",
+        [
+          "Alleen met vliegtuigen",
+          "Met koetsen, schepen of ruiters",
+          "Via internet"
+        ],
+        1,
+        "De eerste alinea noemt deze vervoermiddelen."
+      ],
+      [
+        "Waarom was een brief vroeger bijzonder?",
+        [
+          "Papier was niet overal goedkoop en niet iedereen kon schrijven",
+          "Brieven waren altijd geheim",
+          "Er bestonden geen postbodes"
+        ],
+        0,
+        "Dat wordt uitgelegd in de tweede alinea."
+      ],
+      [
+        "Wat is het verschil met tegenwoordig?",
+        [
+          "Berichten kunnen veel sneller aankomen",
+          "Niemand schrijft meer brieven",
+          "Post wordt alleen per schip vervoerd"
+        ],
+        0,
+        "Digitale berichten kunnen binnen seconden aankomen."
+      ]
+    ]
+  },
+  {
+    "id": "extra03",
+    "title": "Waarom drijven schepen?",
+    "topic": "Wetenschap",
+    "level": "Gemiddeld",
+    "icon": "🚢",
+    "mins": 6,
+    "story": "Een enorm containerschip kan duizenden tonnen wegen en toch blijven drijven. Dat lijkt vreemd, want een klein steentje zinkt meestal meteen. Het verschil zit niet alleen in het gewicht, maar ook in de vorm en de hoeveelheid water die wordt verplaatst.\n\nEen schip heeft een holle romp waarin veel lucht zit. Daardoor is de gemiddelde dichtheid van het hele schip kleiner dan die van water. Het schip duwt water opzij. Het water duwt terug en levert een opwaartse kracht.\n\nAls er te veel lading aan boord komt, wordt het schip dieper in het water gedrukt. Daarom letten bemanningen goed op hoeveel gewicht ze meenemen.",
+    "questions": [
+      [
+        "Waardoor blijft een schip drijven?",
+        [
+          "Omdat het geen gewicht heeft",
+          "Door de opwaartse kracht van het verplaatste water",
+          "Omdat zeewater geen gewicht heeft"
+        ],
+        1,
+        "Het water duwt terug en geeft het schip een opwaartse kracht."
+      ],
+      [
+        "Wat betekent gemiddelde dichtheid in deze tekst?",
+        [
+          "Hoe zwaar het schip gemiddeld is in verhouding tot zijn ruimte",
+          "Hoe snel een schip vaart",
+          "Hoe diep de zee is"
+        ],
+        0,
+        "De holle romp met lucht maakt de gemiddelde dichtheid kleiner."
+      ],
+      [
+        "Waarom moet de bemanning op de lading letten?",
+        [
+          "Te veel gewicht kan het schip dieper laten zakken",
+          "Lading maakt het schip onzichtbaar",
+          "Een schip mag nooit iets vervoeren"
+        ],
+        0,
+        "De tekst zegt dat extra gewicht het schip dieper in het water drukt."
+      ]
+    ]
+  },
+  {
+    "id": "extra04",
+    "title": "De verdwenen fietssleutel",
+    "topic": "Mysterie",
+    "level": "Makkelijk",
+    "icon": "🔎",
+    "mins": 6,
+    "story": "Mila wilde naar haar vriendin fietsen, maar haar fietssleutel was verdwenen. Ze keek op het kastje in de gang, in haar jaszak en onder de bank. Nergens lag de sleutel.\n\nToen herinnerde ze zich dat ze haar fiets gisteren had schoongemaakt. Ze had de sleutel in haar hand gehad toen ze de ketting controleerde. Misschien lag hij nog in de schuur.\n\nIn de schuur stond haar fiets naast een doos met poetsdoeken. Tussen de doeken glinsterde iets. Daar lag de sleutel! Mila stopte hem meteen aan haar sleutelbos.",
+    "questions": [
+      [
+        "Waar zocht Mila eerst?",
+        [
+          "In de schuur",
+          "Op het kastje, in haar jaszak en onder de bank",
+          "Bij haar vriendin"
+        ],
+        1,
+        "Dat staat in de eerste alinea."
+      ],
+      [
+        "Waarom denkt Mila aan de schuur?",
+        [
+          "Ze herinnert zich dat ze daar haar fiets schoonmaakte",
+          "Ze hoort iemand roepen",
+          "Ze ziet de sleutel op straat"
+        ],
+        0,
+        "De tweede alinea geeft haar aanwijzing."
+      ],
+      [
+        "Wat is de oplossing van het raadsel?",
+        [
+          "De sleutel lag tussen de poetsdoeken",
+          "De sleutel zat in de fietsband",
+          "De sleutel was bij haar vriendin"
+        ],
+        0,
+        "In de laatste alinea vindt Mila de sleutel tussen de doeken."
+      ]
+    ]
+  },
+  {
+    "id": "extra05",
+    "title": "Een wereld onder het ijs",
+    "topic": "Natuur",
+    "level": "Moeilijk",
+    "icon": "🧊",
+    "mins": 8,
+    "story": "Onder het dikke ijs van Antarctica ligt een landschap dat mensen niet zomaar kunnen bekijken. Er zijn meren die al duizenden jaren afgesloten zijn van de buitenwereld. Wetenschappers onderzoeken dit gebied met speciale apparatuur, zodat ze het ijs zo weinig mogelijk verstoren.\n\nHet water onder het ijs blijft vloeibaar doordat de enorme druk van het ijs en warmte uit de aarde invloed hebben op de temperatuur. In sommige van deze donkere meren zijn aanwijzingen gevonden voor micro-organismen.\n\nDe ontdekkingen kunnen helpen begrijpen hoe leven onder extreme omstandigheden mogelijk is. Ze geven onderzoekers ook ideeën over plekken buiten de aarde waar misschien ooit leven zou kunnen bestaan.",
+    "questions": [
+      [
+        "Waarom gebruiken wetenschappers speciale apparatuur?",
+        [
+          "Om het ijs zo weinig mogelijk te verstoren",
+          "Om het ijs sneller te laten smelten",
+          "Om het water te kleuren"
+        ],
+        0,
+        "De eerste alinea noemt dit als reden."
+      ],
+      [
+        "Waardoor kan water onder het ijs vloeibaar blijven?",
+        [
+          "Door zonlicht dat rechtstreeks op het meer schijnt",
+          "Door druk en warmte uit de aarde",
+          "Doordat er geen water aanwezig is"
+        ],
+        1,
+        "De tweede alinea noemt druk en warmte."
+      ],
+      [
+        "Waarom zijn deze meren interessant voor onderzoekers?",
+        [
+          "Ze bewijzen dat er mensen op Antarctica wonen",
+          "Ze kunnen informatie geven over leven in extreme omstandigheden",
+          "Ze zijn allemaal warm"
+        ],
+        1,
+        "De laatste alinea legt uit wat onderzoekers ervan kunnen leren."
+      ]
+    ]
+  },
+  {
+    "id": "extra06",
+    "title": "Van graan tot brood",
+    "topic": "Techniek",
+    "level": "Makkelijk",
+    "icon": "🌾",
+    "mins": 6,
+    "story": "Brood begint vaak als een klein graankorreltje. Een boer zaait graan op het land. Na maanden groeien er hoge stengels met aren. Wanneer het graan rijp is, oogst een machine de korrels.\n\nIn een molen worden de korrels gemalen tot meel. De bakker mengt meel met water, gist en soms zout. Gist zorgt ervoor dat het deeg luchtig wordt. Het deeg moet een tijdje rijzen voordat het in de oven gaat.\n\nNa het bakken ruikt de bakkerij heerlijk. Het brood moet eerst afkoelen. Daarna kan het worden gesneden en verkocht.",
+    "questions": [
+      [
+        "Wat gebeurt er na het oogsten?",
+        [
+          "De korrels worden gemalen tot meel",
+          "Het brood gaat meteen de oven in",
+          "De bakker zaait de korrels"
+        ],
+        0,
+        "De tweede alinea begint met het malen van de korrels."
+      ],
+      [
+        "Waarvoor zorgt gist?",
+        [
+          "Voor de kleur van het brood",
+          "Dat het deeg luchtig wordt",
+          "Dat het brood koud blijft"
+        ],
+        1,
+        "Dat staat letterlijk in de tweede alinea."
+      ],
+      [
+        "Wat is de juiste volgorde?",
+        [
+          "Bakken, zaaien, malen",
+          "Zaaien, oogsten, malen, bakken",
+          "Malen, verkopen, zaaien"
+        ],
+        1,
+        "De tekst beschrijft deze stappen in deze volgorde."
+      ]
+    ]
+  },
+  {
+    "id": "extra07",
+    "title": "De kracht van slaap",
+    "topic": "Gezondheid",
+    "level": "Gemiddeld",
+    "icon": "🌙",
+    "mins": 6,
+    "story": "Na een drukke dag heeft je lichaam rust nodig. Tijdens het slapen herstelt je lichaam en verwerken je hersenen informatie die je overdag hebt geleerd. Daarom kan een goede nachtrust helpen om je beter te concentreren.\n\nKinderen hebben meestal meer slaap nodig dan volwassenen. Toch gaan veel kinderen soms te laat naar bed. Een vast avondritueel kan helpen: leg je telefoon weg, poets je tanden en lees nog even een boek.\n\nIedereen slaapt weleens slecht. Dat is niet meteen een probleem. Maar als je vaak moe bent, is het verstandig om met een ouder te bespreken hoe je beter kunt uitrusten.",
+    "questions": [
+      [
+        "Wat gebeurt er tijdens het slapen?",
+        [
+          "Je hersenen verwerken informatie",
+          "Je lichaam stopt helemaal",
+          "Je leert nooit iets nieuws"
+        ],
+        0,
+        "De eerste alinea noemt herstel en het verwerken van informatie."
+      ],
+      [
+        "Welk voorbeeld wordt genoemd als onderdeel van een avondritueel?",
+        [
+          "Een computerspel spelen",
+          "Je telefoon wegleggen en een boek lezen",
+          "Een grote maaltijd eten"
+        ],
+        1,
+        "De tweede alinea noemt deze gewoonten."
+      ],
+      [
+        "Wat adviseert de tekst als je vaak moe bent?",
+        [
+          "Helemaal niet meer slapen",
+          "Met een ouder bespreken hoe je beter kunt uitrusten",
+          "Elke avond later naar bed gaan"
+        ],
+        1,
+        "Dat is het advies in de laatste alinea."
+      ]
+    ]
+  },
+  {
+    "id": "extra08",
+    "title": "Waarom hebben flamingo's roze veren?",
+    "topic": "Dieren",
+    "level": "Gemiddeld",
+    "icon": "🦩",
+    "mins": 6,
+    "story": "Flamingo's staan bekend om hun roze kleur. Toch worden ze niet roze geboren. Jonge flamingo's hebben meestal grijze of witte veren. Hun kleur verandert door het voedsel dat ze eten.\n\nFlamingo's eten onder andere kleine kreeftachtigen en algen. In dat voedsel zitten kleurstoffen die carotenoïden heten. Het lichaam neemt deze stoffen op en daardoor krijgen de veren na verloop van tijd een roze tint.\n\nDe kleur kan per flamingo verschillen. Dat hangt onder meer af van het voedsel dat het dier vindt. De roze veren zijn dus niet zomaar versiering: ze vertellen ook iets over het dieet van de vogel.",
+    "questions": [
+      [
+        "Waardoor krijgen flamingo's hun roze kleur?",
+        [
+          "Door het voedsel dat ze eten",
+          "Door zonlicht alleen",
+          "Omdat ze roze worden geboren"
+        ],
+        0,
+        "De kleurstoffen in hun voedsel zorgen voor de roze tint."
+      ],
+      [
+        "Wat zijn carotenoïden?",
+        [
+          "Een soort veren",
+          "Kleurstoffen in voedsel",
+          "Een soort nest"
+        ],
+        1,
+        "De tekst noemt carotenoïden als kleurstoffen in algen en kleine kreeftachtigen."
+      ],
+      [
+        "Wat kun je uit de kleur afleiden?",
+        [
+          "Welke muziek de flamingo hoort",
+          "Iets over het voedsel van de vogel",
+          "Hoe oud de vogel precies is"
+        ],
+        1,
+        "De laatste alinea zegt dat de kleur iets over het dieet vertelt."
+      ]
+    ]
+  },
+  {
+    "id": "extra09",
+    "title": "De eerste trein",
+    "topic": "Geschiedenis",
+    "level": "Gemiddeld",
+    "icon": "🚂",
+    "mins": 8,
+    "story": "Voordat er treinen reden, reisden mensen vaak met paard en wagen. Dat kostte veel tijd. In de negentiende eeuw veranderde de stoommachine het vervoer. Treinen konden grotere hoeveelheden mensen en goederen over lange afstanden vervoeren.\n\nDe eerste spoorlijnen waren niet overal meteen populair. Sommige mensen waren bang voor ongelukken en vonden de snelheid gevaarlijk. Toch werden spoorwegen steeds belangrijker. Dorpen en steden kwamen dichter bij elkaar te liggen doordat reizen sneller werd.\n\nTegenwoordig rijden veel treinen elektrisch. Ze vervoeren dagelijks miljoenen reizigers. De trein is daarmee nog steeds een belangrijk onderdeel van het openbaar vervoer.",
+    "questions": [
+      [
+        "Wat veranderde door de stoomtrein?",
+        [
+          "Reizen over lange afstanden werd sneller",
+          "Paarden konden harder lopen",
+          "Mensen stopten met reizen"
+        ],
+        0,
+        "De eerste alinea legt uit dat treinen sneller grote afstanden konden afleggen."
+      ],
+      [
+        "Waarom waren sommige mensen eerst bang?",
+        [
+          "Ze vonden de snelheid en mogelijke ongelukken gevaarlijk",
+          "Ze wilden geen stations",
+          "Treinen reden onder water"
+        ],
+        0,
+        "Dat staat in de tweede alinea."
+      ],
+      [
+        "Wat is de tekst vooral?",
+        [
+          "Een fantasieverhaal",
+          "Een informatieve tekst over de ontwikkeling van treinen",
+          "Een gebruiksaanwijzing"
+        ],
+        1,
+        "De tekst geeft informatie over vroeger en nu."
+      ]
+    ]
+  },
+  {
+    "id": "extra10",
+    "title": "Het raadsel van de schaduw",
+    "topic": "Wetenschap",
+    "level": "Makkelijk",
+    "icon": "☀️",
+    "mins": 6,
+    "story": "Op een zonnige dag zie je vaak een schaduw achter je aan lopen. Een schaduw ontstaat wanneer licht door een voorwerp wordt tegengehouden. Je lichaam houdt een deel van het zonlicht tegen en daardoor ontstaat er op de grond een donkere vorm.\n\nDe schaduw verandert gedurende de dag. In de ochtend staat de zon laag en is je schaduw lang. Rond het middaguur staat de zon hoger en wordt de schaduw korter. Later op de dag wordt hij weer langer.\n\nOok binnen kun je schaduwen maken. Zet een lamp achter een speelgoedfiguur en kijk hoe de vorm op de muur verschijnt.",
+    "questions": [
+      [
+        "Hoe ontstaat een schaduw?",
+        [
+          "Wanneer licht wordt tegengehouden",
+          "Wanneer het regent",
+          "Wanneer de lucht koud wordt"
+        ],
+        0,
+        "De eerste alinea geeft de uitleg."
+      ],
+      [
+        "Wanneer is je schaduw meestal het kortst?",
+        [
+          "In de ochtend",
+          "Rond het middaguur",
+          "Laat in de avond"
+        ],
+        1,
+        "De zon staat dan hoger aan de hemel."
+      ],
+      [
+        "Wat kun je met een lamp en speelgoedfiguur doen?",
+        [
+          "Een regenboog maken",
+          "Een schaduw op de muur maken",
+          "De zon verplaatsen"
+        ],
+        1,
+        "De laatste alinea beschrijft dit proefje."
+      ]
+    ]
+  },
+  {
+    "id": "extra11",
+    "title": "Een eiland van afval",
+    "topic": "Milieu",
+    "level": "Moeilijk",
+    "icon": "🌊",
+    "mins": 8,
+    "story": "In oceanen drijft veel plastic afval. Stromingen kunnen stukken afval bij elkaar brengen in grote gebieden. Die plekken worden soms plasticsoep genoemd. Het is geen stevig eiland waarop je kunt lopen, maar een gebied met veel rondzwevend plastic.\n\nGrote stukken plastic breken langzaam af in steeds kleinere deeltjes. Dieren kunnen die deeltjes per ongeluk inslikken. Ook kunnen ze verstrikt raken in netten en verpakkingen. Dat kan schadelijk zijn voor het zeeleven.\n\nHet opruimen van plastic op zee is ingewikkeld, omdat het afval verspreid is over enorme gebieden. Daarom proberen organisaties vooral te voorkomen dat nieuw afval in rivieren en oceanen terechtkomt.",
+    "questions": [
+      [
+        "Wat is plasticsoep volgens de tekst?",
+        [
+          "Een echt eiland van plastic",
+          "Een gebied waar veel plastic rondzweeft",
+          "Een soort zeewier"
+        ],
+        1,
+        "De schrijver benadrukt dat je er niet op kunt lopen."
+      ],
+      [
+        "Waarom kan plastic gevaarlijk zijn voor dieren?",
+        [
+          "Dieren kunnen het inslikken of erin verstrikt raken",
+          "Het maakt het water altijd warm",
+          "Het verandert in voedsel"
+        ],
+        0,
+        "Dat wordt uitgelegd in de tweede alinea."
+      ],
+      [
+        "Waarom ligt de nadruk op voorkomen?",
+        [
+          "Opruimen op zee is eenvoudig",
+          "Het afval is verspreid over enorme gebieden",
+          "Plastic verdwijnt vanzelf"
+        ],
+        1,
+        "De laatste alinea noemt het opruimen ingewikkeld."
+      ]
+    ]
+  },
+  {
+    "id": "extra12",
+    "title": "De geheimzinnige honingpot",
+    "topic": "Mysterie",
+    "level": "Gemiddeld",
+    "icon": "🍯",
+    "mins": 6,
+    "story": "Elke ochtend stond er een pot honing op de keukentafel. Maar op woensdag was de pot ineens bijna leeg. Sam keek naar zijn zus Noor. Zij schudde haar hoofd. Ook vader zei dat hij niets had gepakt.\n\nSam besloot een onderzoek te beginnen. Hij zette de pot op een vel papier en strooide een dun laagje bloem rond de tafel. De volgende ochtend zag hij kleine pootafdrukken in de bloem. Ze liepen naar het kattenluik.\n\nDe kat zat tevreden in haar mand. Naast haar lag een plakkerig lepeltje. Sam moest lachen: de dief had vier poten en een snor.",
+    "questions": [
+      [
+        "Wat probeert Sam te ontdekken?",
+        [
+          "Wie de honing opeet",
+          "Waar de tafel vandaan komt",
+          "Waarom het regent"
+        ],
+        0,
+        "De pot is bijna leeg en Sam start een onderzoek."
+      ],
+      [
+        "Waarom strooit Sam bloem rond de tafel?",
+        [
+          "Om de vloer schoon te maken",
+          "Om pootafdrukken te kunnen zien",
+          "Om de kat te voeren"
+        ],
+        1,
+        "De bloem maakt sporen zichtbaar."
+      ],
+      [
+        "Wie blijkt de honing te hebben gepakt?",
+        [
+          "Noor",
+          "Vader",
+          "De kat"
+        ],
+        2,
+        "De pootafdrukken lopen naar het kattenluik en er ligt een plakkerig lepeltje bij de kat."
+      ]
+    ]
+  },
+  {
+    "id": "extra13",
+    "title": "Hoe werkt een kompas?",
+    "topic": "Techniek",
+    "level": "Moeilijk",
+    "icon": "🧭",
+    "mins": 6,
+    "story": "Een kompas helpt je om richtingen te bepalen. In een kompas zit een magneetnaald die vrij kan draaien. De aarde heeft zelf ook een magnetisch veld. Daardoor wijst de naald ongeveer naar het noorden.\n\nEen kompas werkt het best als je het horizontaal houdt en uit de buurt blijft van sterke magneten en metalen voorwerpen. Die kunnen de naald beïnvloeden, waardoor je een verkeerde richting afleest.\n\nWandelaars gebruiken een kompas soms samen met een kaart. Door de kaart goed te draaien, kunnen ze bepalen welke kant ze op moeten. Een kompas heeft geen batterij nodig, maar je moet wel leren hoe je het gebruikt.",
+    "questions": [
+      [
+        "Waarom wijst de kompasnaald ongeveer naar het noorden?",
+        [
+          "Door het magnetische veld van de aarde",
+          "Door de zwaartekracht van de maan",
+          "Door de batterij"
+        ],
+        0,
+        "De eerste alinea legt de werking uit."
+      ],
+      [
+        "Waardoor kan een kompas een verkeerde richting aangeven?",
+        [
+          "Door regen",
+          "Door sterke magneten of metalen voorwerpen",
+          "Door een papieren kaart"
+        ],
+        1,
+        "Deze voorwerpen kunnen de naald beïnvloeden."
+      ],
+      [
+        "Wat is een voordeel van een kompas?",
+        [
+          "Het heeft geen batterij nodig",
+          "Het vertelt automatisch je naam",
+          "Het werkt alleen binnen"
+        ],
+        0,
+        "Dat staat in de laatste alinea."
+      ]
+    ]
+  },
+  {
+    "id": "extra14",
+    "title": "De bijen-dans",
+    "topic": "Dieren",
+    "level": "Moeilijk",
+    "icon": "🐝",
+    "mins": 6,
+    "story": "Wanneer een honingbij een plek met veel bloemen vindt, kan ze haar soortgenoten vertellen waar het voedsel ligt. Dat doet ze met een beweging die de bijendans wordt genoemd.\n\nDe bij beweegt in een patroon over de raat. De richting van een deel van de dans geeft informatie over de richting van de bloemen. Hoe lang de bij dat deel uitvoert, hangt samen met de afstand. Andere bijen kijken en voelen de bewegingen.\n\nDaarna vliegen de bijen op zoek naar de genoemde plek. De bijendans is een bijzonder voorbeeld van communicatie tussen dieren. Mensen gebruiken woorden en gebaren; bijen gebruiken bewegingen om informatie door te geven.",
+    "questions": [
+      [
+        "Waarvoor dient de bijendans?",
+        [
+          "Om andere bijen de weg naar voedsel te wijzen",
+          "Om vijanden bang te maken",
+          "Om honing te bewaren"
+        ],
+        0,
+        "De eerste alinea beschrijft dat de bij informatie over bloemen doorgeeft."
+      ],
+      [
+        "Waarmee hangt de duur van een deel van de dans samen?",
+        [
+          "Met de kleur van de bloem",
+          "Met de afstand tot het voedsel",
+          "Met de leeftijd van de bij"
+        ],
+        1,
+        "De tweede alinea noemt de afstand."
+      ],
+      [
+        "Welke vergelijking maakt de schrijver?",
+        [
+          "Bijen communiceren met bewegingen en mensen met woorden en gebaren",
+          "Bijen kunnen beter lezen dan mensen",
+          "Mensen maken ook honing"
+        ],
+        0,
+        "De laatste zin vergelijkt de manieren van communiceren."
+      ]
+    ]
+  },
+  {
+    "id": "extra15",
+    "title": "Waarom is de lucht blauw?",
+    "topic": "Wetenschap",
+    "level": "Gemiddeld",
+    "icon": "🔵",
+    "mins": 6,
+    "story": "Op een heldere dag lijkt de lucht blauw. Zonlicht lijkt wit, maar bestaat uit verschillende kleuren. Wanneer het licht door de atmosfeer reist, botsen de lichtdeeltjes met kleine gasmoleculen.\n\nBlauw licht wordt sterker in verschillende richtingen verspreid dan rood licht. Daardoor komt er vanuit veel plekken aan de hemel blauw licht in onze ogen. Bij zonsopkomst en zonsondergang legt het licht een langere weg door de atmosfeer af. Dan kan vooral rood en oranje licht overblijven.\n\nDe lucht is dus niet blauw omdat er blauwe verf of een blauwe laag om de aarde zit. Het heeft te maken met de manier waarop zonlicht zich door de lucht verspreidt.",
+    "questions": [
+      [
+        "Waarom zien we de lucht meestal blauw?",
+        [
+          "Blauw licht wordt sterk verspreid",
+          "De aarde is bedekt met blauwe verf",
+          "De zon geeft alleen blauw licht"
+        ],
+        0,
+        "De tweede alinea legt uit dat blauw licht sterker wordt verspreid."
+      ],
+      [
+        "Wanneer kan de lucht rood of oranje lijken?",
+        [
+          "Midden in de nacht",
+          "Bij zonsopkomst en zonsondergang",
+          "Alleen tijdens sneeuw"
+        ],
+        1,
+        "Dan reist zonlicht een langere weg door de atmosfeer."
+      ],
+      [
+        "Wat wil de laatste alinea duidelijk maken?",
+        [
+          "Dat de lucht een vaste blauwe laag is",
+          "Dat de kleur ontstaat door verspreiding van licht",
+          "Dat de zon niet wit lijkt"
+        ],
+        1,
+        "De schrijver corrigeert een mogelijke verkeerde verklaring."
+      ]
+    ]
+  },
+  {
+    "id": "extra16",
+    "title": "De uitvinding van de fietsbel",
+    "topic": "Geschiedenis",
+    "level": "Makkelijk",
+    "icon": "🚲",
+    "mins": 6,
+    "story": "Fietsen werden vroeger steeds populairder. Maar op drukke wegen was het lastig om andere weggebruikers te waarschuwen. Daarom werd de fietsbel een handig hulpmiddel.\n\nEen fietsbel maakt geluid wanneer een metalen hamertje tegen een belletje tikt. Door een hendeltje of knop te bewegen, laat je het hamertje snel tegen het metaal slaan. Zo horen voetgangers en andere fietsers dat je eraan komt.\n\nEen fietsbel is klein en eenvoudig, maar kan helpen om ongelukken te voorkomen. Gebruik hem op tijd en niet om mensen zomaar te laten schrikken.",
+    "questions": [
+      [
+        "Waarom werd de fietsbel handig?",
+        [
+          "Om andere weggebruikers te waarschuwen",
+          "Om sneller te fietsen",
+          "Om de banden op te pompen"
+        ],
+        0,
+        "De eerste alinea noemt het waarschuwen als reden."
+      ],
+      [
+        "Hoe maakt een fietsbel geluid?",
+        [
+          "Met een luidspreker",
+          "Een hamertje tikt tegen metaal",
+          "Met lucht uit de band"
+        ],
+        1,
+        "Dat staat in de tweede alinea."
+      ],
+      [
+        "Wat is het advies van de schrijver?",
+        [
+          "Bel zo hard mogelijk",
+          "Gebruik de bel op tijd",
+          "Gebruik de bel alleen thuis"
+        ],
+        1,
+        "De laatste zin adviseert om op tijd te bellen."
+      ]
+    ]
+  },
+  {
+    "id": "extra17",
+    "title": "Een nacht in het bos",
+    "topic": "Natuur",
+    "level": "Gemiddeld",
+    "icon": "🏕️",
+    "mins": 6,
+    "story": "Lina gaat met haar oom kamperen in het bos. Zodra de zon ondergaat, klinkt het bos anders. Overdag hoorde ze vooral vogels. Nu hoort ze geritsel tussen de bladeren en het roepen van een uil.\n\nHaar oom legt uit dat veel dieren juist in de schemering of nacht actief worden. Ze zoeken dan voedsel of proberen roofdieren te vermijden. Lina schijnt met haar zaklamp op de grond en ziet een rij kleine pootafdrukken.\n\nDe volgende ochtend bekijken ze de sporen opnieuw. Haar oom denkt dat een egel langs de tent is gelopen. Lina vindt het bijzonder dat er 's nachts zoveel gebeurt zonder dat mensen het merken.",
+    "questions": [
+      [
+        "Wat merkt Lina wanneer de zon ondergaat?",
+        [
+          "Het bos wordt helemaal stil",
+          "Ze hoort andere geluiden dan overdag",
+          "Alle dieren verdwijnen"
+        ],
+        1,
+        "De eerste alinea vergelijkt de geluiden overdag en 's nachts."
+      ],
+      [
+        "Waarom zijn sommige dieren 's nachts actief?",
+        [
+          "Om voedsel te zoeken of roofdieren te vermijden",
+          "Omdat ze niet kunnen zien",
+          "Om mensen wakker te maken"
+        ],
+        0,
+        "Dat legt de oom uit in de tweede alinea."
+      ],
+      [
+        "Wat denkt de oom dat langs de tent liep?",
+        [
+          "Een vos",
+          "Een uil",
+          "Een egel"
+        ],
+        2,
+        "Dat staat in de laatste alinea."
+      ]
+    ]
+  },
+  {
+    "id": "extra18",
+    "title": "Een stad zonder auto's",
+    "topic": "Samenleving",
+    "level": "Moeilijk",
+    "icon": "🏙️",
+    "mins": 8,
+    "story": "Steeds meer steden onderzoeken hoe straten prettiger kunnen worden voor bewoners. Een mogelijkheid is om sommige straten autoluw te maken. Dat betekent niet altijd dat auto's helemaal verboden zijn, maar dat er minder autoverkeer komt.\n\nVoorstanders wijzen op schonere lucht, minder lawaai en meer ruimte voor voetgangers en fietsers. Winkels kunnen profiteren wanneer mensen rustig door een straat lopen. Tegenstanders maken zich zorgen over bereikbaarheid. Mensen die slecht ter been zijn of ver weg wonen, hebben soms een auto nodig.\n\nDaarom zoeken gemeenten vaak naar een tussenoplossing. Denk aan laad- en losplekken, uitzonderingen voor hulpdiensten en goede busverbindingen. Een verandering werkt pas goed als verschillende groepen bewoners worden gehoord.",
+    "questions": [
+      [
+        "Wat betekent autoluw?",
+        [
+          "Een straat waar minder autoverkeer is",
+          "Een straat zonder mensen",
+          "Een weg waar alleen vrachtwagens rijden"
+        ],
+        0,
+        "De eerste alinea geeft de betekenis."
+      ],
+      [
+        "Welk argument noemen tegenstanders?",
+        [
+          "Er komt meer frisse lucht",
+          "De bereikbaarheid kan moeilijker worden",
+          "Er zijn te veel bomen"
+        ],
+        1,
+        "De tweede alinea noemt zorgen over bereikbaarheid."
+      ],
+      [
+        "Welke conclusie past bij de tekst?",
+        [
+          "Iedereen is het altijd eens over autoluwe straten",
+          "Een goede oplossing houdt rekening met verschillende bewoners",
+          "Auto's moeten overal verboden worden"
+        ],
+        1,
+        "De laatste alinea benadrukt dat verschillende groepen gehoord moeten worden."
+      ]
+    ]
+  },
+  {
+    "id": "extra19",
+    "title": "Het wonder van magneten",
+    "topic": "Wetenschap",
+    "level": "Makkelijk",
+    "icon": "🧲",
+    "mins": 6,
+    "story": "Een magneet kan sommige metalen aantrekken, zoals ijzer. Houd je een magneet bij een paperclip, dan kan de paperclip eraan blijven hangen. Maar een houten potlood wordt niet aangetrokken.\n\nElke magneet heeft twee polen: een noordpool en een zuidpool. Twee verschillende polen trekken elkaar aan. Twee dezelfde polen duwen elkaar juist weg.\n\nMagneten worden op veel plekken gebruikt. In een koelkastmagneet, in luidsprekers en in sommige motoren zitten magneten. Je komt ze dus vaker tegen dan je misschien denkt.",
+    "questions": [
+      [
+        "Welk materiaal wordt in de tekst genoemd als iets dat een magneet aantrekt?",
+        [
+          "Hout",
+          "IJzer",
+          "Papier"
+        ],
+        1,
+        "De eerste alinea noemt ijzer."
+      ],
+      [
+        "Wat gebeurt er met twee dezelfde polen?",
+        [
+          "Ze trekken elkaar aan",
+          "Ze duwen elkaar weg",
+          "Er gebeurt niets"
+        ],
+        1,
+        "Dat staat in de tweede alinea."
+      ],
+      [
+        "Waar worden magneten gebruikt?",
+        [
+          "In luidsprekers en sommige motoren",
+          "Alleen in bomen",
+          "In waterdruppels"
+        ],
+        0,
+        "De laatste alinea geeft voorbeelden."
+      ]
+    ]
+  },
+  {
+    "id": "extra20",
+    "title": "De verloren schatkaart",
+    "topic": "Avontuur",
+    "level": "Gemiddeld",
+    "icon": "🗺️",
+    "mins": 6,
+    "story": "Toen Amir de zolder opruimde, vond hij achter een oude koffer een vergeelde kaart. Er stonden een boom, een brug en een grote rode cirkel op. In de hoek stond met potlood: 'Waar het water twee kanten op gaat.'\n\nAmir nam de kaart mee naar opa. Opa herkende de brug meteen. Vroeger liep daar een beek die zich vlak achter de brug in twee kleine stroompjes splitste. Ze besloten samen te gaan kijken.\n\nBij de brug vonden ze geen gouden munten, maar wel een houten kistje met oude foto's van de familie. Opa glimlachte. 'Dit is voor mij een veel grotere schat,' zei hij.",
+    "questions": [
+      [
+        "Waar vond Amir de kaart?",
+        [
+          "Onder zijn bed",
+          "Achter een oude koffer op zolder",
+          "Bij de brug"
+        ],
+        1,
+        "Dat staat in de eerste zin."
+      ],
+      [
+        "Wat betekent de aanwijzing over het water?",
+        [
+          "De beek splitst zich in twee stroompjes",
+          "Het water is opgedroogd",
+          "Er ligt een boot onder de brug"
+        ],
+        0,
+        "Opa herkent de plek waar de beek zich splitst."
+      ],
+      [
+        "Waarom noemt opa de foto's een grote schat?",
+        [
+          "Omdat ze van goud zijn",
+          "Omdat ze waardevolle familieherinneringen bevatten",
+          "Omdat hij ze wil verkopen"
+        ],
+        1,
+        "Opa vindt de herinneringen belangrijker dan geld."
+      ]
+    ]
+  },
+  {
+    "id": "extra21",
+    "title": "De reis van een brief",
+    "topic": "Taal",
+    "level": "Gemiddeld",
+    "icon": "📮",
+    "mins": 6,
+    "story": "Wanneer je een brief verstuurt, begint die aan een reis. Eerst doet de afzender de brief in een envelop en schrijft het adres erop. Daarna gaat de brief naar een verzamelpunt waar post wordt gesorteerd.\n\nIn een sorteercentrum lezen machines de adressen. De brieven worden verdeeld over routes en vervoerd naar een centrum in de buurt van de ontvanger. Een postbezorger brengt de brief uiteindelijk naar het juiste adres.\n\nEen verkeerd geschreven huisnummer kan voor vertraging zorgen. Daarom is het belangrijk dat het adres duidelijk en volledig is. Zo kan de brief sneller op de goede plek aankomen.",
+    "questions": [
+      [
+        "Wat gebeurt er in het sorteercentrum?",
+        [
+          "Brieven worden verdeeld over routes",
+          "Brieven worden opnieuw geschreven",
+          "De ontvanger haalt alle post op"
+        ],
+        0,
+        "De tweede alinea beschrijft het sorteren."
+      ],
+      [
+        "Waarom moet het adres duidelijk zijn?",
+        [
+          "Anders kan de brief vertraging oplopen",
+          "Anders wordt de envelop groter",
+          "Anders kan de brief niet worden geopend"
+        ],
+        0,
+        "Dat wordt uitgelegd in de laatste alinea."
+      ],
+      [
+        "Wie bezorgt de brief uiteindelijk?",
+        [
+          "De afzender",
+          "De postbezorger",
+          "De machine"
+        ],
+        1,
+        "De tweede alinea zegt dat de postbezorger de brief aflevert."
+      ]
+    ]
+  },
+  {
+    "id": "extra22",
+    "title": "Hoe ontstaan duinen?",
+    "topic": "Aarde",
+    "level": "Moeilijk",
+    "icon": "🏖️",
+    "mins": 6,
+    "story": "Langs de Nederlandse kust liggen duinen. Ze zijn ontstaan doordat wind zand verplaatst. Wanneer de wind minder hard waait, kan het zand ergens blijven liggen. Langzaam ontstaan kleine heuveltjes.\n\nPlanten zoals helmgras helpen om duinen stevig te maken. Hun wortels houden het zand vast. Het gras kan bovendien goed tegen zout en harde wind. Zonder planten zouden sommige duinen makkelijker wegwaaien.\n\nDuinen zijn niet alleen mooi. Ze vormen ook een natuurlijke bescherming tegen de zee. Daarom wordt op veel plekken zorgvuldig met de duinen omgegaan. Soms wordt extra zand aangevoerd om de kust sterker te maken.",
+    "questions": [
+      [
+        "Hoe ontstaan kleine duinheuvels?",
+        [
+          "Door zand dat door de wind wordt verplaatst en neergelegd",
+          "Door regen die stenen stapelt",
+          "Door bomen die omvallen"
+        ],
+        0,
+        "De eerste alinea beschrijft hoe zand blijft liggen."
+      ],
+      [
+        "Waarom is helmgras belangrijk?",
+        [
+          "Het maakt het zand nat",
+          "De wortels houden het zand vast",
+          "Het jaagt vogels weg"
+        ],
+        1,
+        "De tweede alinea noemt de wortels als belangrijkste reden."
+      ],
+      [
+        "Welke functie hebben duinen naast natuurgebied zijn?",
+        [
+          "Ze beschermen het land tegen de zee",
+          "Ze maken de zee warmer",
+          "Ze zorgen voor meer verkeer"
+        ],
+        0,
+        "De laatste alinea noemt de bescherming tegen de zee."
+      ]
+    ]
+  },
+  {
+    "id": "extra23",
+    "title": "De bibliotheek van de toekomst",
+    "topic": "Samenleving",
+    "level": "Gemiddeld",
+    "icon": "📚",
+    "mins": 6,
+    "story": "Een bibliotheek is allang niet meer alleen een plek waar je boeken leent. In veel bibliotheken kun je ook studeren, computers gebruiken, taal oefenen of meedoen aan een workshop.\n\nSommige bibliotheken organiseren programmeerlessen voor kinderen. Andere hebben een makerspace met gereedschap, 3D-printers of knutselmateriaal. Bezoekers kunnen er nieuwe vaardigheden leren en elkaar helpen.\n\nToch blijven boeken belangrijk. Je kunt er rustig lezen, informatie opzoeken of een verhaal ontdekken dat je anders misschien nooit had gekozen. De bibliotheek verandert mee met de tijd, maar het delen van kennis blijft centraal staan.",
+    "questions": [
+      [
+        "Welke activiteit kun je volgens de tekst in een bibliotheek doen?",
+        [
+          "Alleen sporten",
+          "Een programmeerles volgen",
+          "Een auto repareren"
+        ],
+        1,
+        "De tweede alinea noemt programmeerlessen."
+      ],
+      [
+        "Wat is een makerspace?",
+        [
+          "Een plek met materiaal om dingen te maken en te leren",
+          "Een ruimte waar alleen boeken staan",
+          "Een winkel met boodschappen"
+        ],
+        0,
+        "De tweede alinea geeft voorbeelden van gereedschap en 3D-printers."
+      ],
+      [
+        "Wat blijft volgens de schrijver centraal staan?",
+        [
+          "Het delen van kennis",
+          "Het verkopen van computers",
+          "Het bewaren van oude stoelen"
+        ],
+        0,
+        "De laatste zin noemt het delen van kennis."
+      ]
+    ]
+  },
+  {
+    "id": "extra24",
+    "title": "Waarom trekken vogels weg?",
+    "topic": "Dieren",
+    "level": "Moeilijk",
+    "icon": "🕊️",
+    "mins": 6,
+    "story": "Sommige vogels verlaten Nederland wanneer de herfst begint. Ze trekken naar gebieden waar meer voedsel te vinden is en waar de temperatuur gunstiger is. Dit gedrag heet vogeltrek.\n\nVogels gebruiken verschillende aanwijzingen om hun route te vinden. De stand van de zon, sterren en het aardmagnetisch veld kunnen daarbij helpen. Ook leren jonge vogels soms de route van oudere soortgenoten.\n\nNiet alle vogels trekken weg. Een merel kan bijvoorbeeld het hele jaar in dezelfde omgeving blijven. Of een vogel vertrekt, hangt af van de soort, het weer en de beschikbaarheid van voedsel.",
+    "questions": [
+      [
+        "Waarom trekken sommige vogels weg?",
+        [
+          "Om gebieden met gunstiger voedsel en temperatuur te vinden",
+          "Omdat ze niet kunnen vliegen",
+          "Om hun veren te verliezen"
+        ],
+        0,
+        "De eerste alinea noemt voedsel en temperatuur."
+      ],
+      [
+        "Welke aanwijzing gebruiken vogels mogelijk bij het navigeren?",
+        [
+          "Verkeersborden",
+          "Het aardmagnetisch veld",
+          "Straatnamen"
+        ],
+        1,
+        "De tweede alinea noemt het aardmagnetisch veld."
+      ],
+      [
+        "Wat kun je concluderen over vogeltrek?",
+        [
+          "Alle vogels trekken weg",
+          "Het verschilt per soort en omstandigheden",
+          "Vogels trekken alleen overdag"
+        ],
+        1,
+        "De laatste alinea maakt duidelijk dat niet alle vogels trekken."
+      ]
+    ]
+  },
+  {
+    "id": "extra25",
+    "title": "De geheimen van oude bomen",
+    "topic": "Natuur",
+    "level": "Gemiddeld",
+    "icon": "🌲",
+    "mins": 6,
+    "story": "Een oude boom kan honderden jaren op dezelfde plek staan. In die tijd heeft hij stormen, droge zomers en strenge winters meegemaakt. Aan de jaarringen in de stam kunnen onderzoekers soms zien hoe de boom groeide.\n\nIn een jaar met genoeg water en zonlicht groeit een boom vaak goed. Dan ontstaat meestal een bredere jaarring. Bij moeilijke omstandigheden kan de ring smaller zijn. Door veel bomen te onderzoeken, kunnen wetenschappers iets leren over het klimaat van vroeger.\n\nEen boom vertelt dus niet met woorden zijn verhaal. Zijn stam bewaart wel sporen van wat hij heeft meegemaakt.",
+    "questions": [
+      [
+        "Wat kunnen jaarringen laten zien?",
+        [
+          "Hoe de boom vroeger groeide",
+          "Hoeveel vogels erop zitten",
+          "Welke kleur de bladeren hadden"
+        ],
+        0,
+        "De eerste alinea noemt de groei als informatie."
+      ],
+      [
+        "Wanneer ontstaat meestal een bredere jaarring?",
+        [
+          "Bij genoeg water en zonlicht",
+          "Tijdens extreme droogte",
+          "Wanneer de boom geen bladeren heeft"
+        ],
+        0,
+        "Dat staat in de tweede alinea."
+      ],
+      [
+        "Wat bedoelt de laatste zin?",
+        [
+          "De stam bewaart aanwijzingen over het verleden",
+          "Bomen kunnen praten",
+          "Alle bomen zijn even oud"
+        ],
+        0,
+        "De jaarringen zijn sporen van vroegere omstandigheden."
+      ]
+    ]
+  },
+  {
+    "id": "extra26",
+    "title": "Een robot in het ziekenhuis",
+    "topic": "Techniek",
+    "level": "Moeilijk",
+    "icon": "🤖",
+    "mins": 6,
+    "story": "In sommige ziekenhuizen helpen robots bij het vervoeren van medicijnen, maaltijden en schoon linnengoed. De robots rijden zelfstandig door gangen en kunnen met sensoren mensen en obstakels herkennen.\n\nDat betekent niet dat robots het werk van verpleegkundigen overnemen. Zorgmedewerkers blijven nodig om patiënten te verzorgen, vragen te beantwoorden en beslissingen te nemen. Een robot kan vooral tijd besparen bij terugkerende taken.\n\nVoor ziekenhuizen is het belangrijk dat de robots veilig werken. Ze moeten op tijd stoppen als iemand onverwacht voor ze loopt. Ook moeten medewerkers weten hoe ze de robot kunnen bedienen of hulp kunnen vragen.",
+    "questions": [
+      [
+        "Welke taak kan een ziekenhuisrobot uitvoeren?",
+        [
+          "Patiënten opereren zonder arts",
+          "Medicijnen vervoeren",
+          "Medische diagnoses altijd zelfstandig stellen"
+        ],
+        1,
+        "De eerste alinea noemt het vervoeren van medicijnen."
+      ],
+      [
+        "Waarom nemen robots het werk van verpleegkundigen niet over?",
+        [
+          "Zorgmedewerkers blijven nodig voor verzorging en beslissingen",
+          "Robots kunnen niet rijden",
+          "Patiënten willen nooit robots zien"
+        ],
+        0,
+        "De tweede alinea legt uit welke menselijke taken belangrijk blijven."
+      ],
+      [
+        "Wat is een belangrijke eis voor ziekenhuisrobots?",
+        [
+          "Ze moeten veilig kunnen stoppen bij obstakels",
+          "Ze moeten zo hard mogelijk rijden",
+          "Ze mogen geen sensoren hebben"
+        ],
+        0,
+        "De laatste alinea benadrukt veilig werken."
+      ]
+    ]
+  },
+  {
+    "id": "extra27",
+    "title": "Het geheim van goede samenwerking",
+    "topic": "Samenleving",
+    "level": "Makkelijk",
+    "icon": "🤝",
+    "mins": 6,
+    "story": "Bij een groepsopdracht heeft iedereen soms een ander idee. De ene leerling wil meteen beginnen, terwijl een ander eerst een plan wil maken. Dat kan botsen, maar verschillende ideeën kunnen ook helpen.\n\nEen goede groep luistert naar elkaar en verdeelt de taken eerlijk. Het helpt om af te spreken wie wat doet en wanneer het werk klaar moet zijn. Als iemand vastloopt, kunnen groepsgenoten helpen.\n\nSamenwerken betekent niet dat iedereen het altijd eens moet zijn. Het betekent dat je respectvol overlegt en samen naar een oplossing zoekt.",
+    "questions": [
+      [
+        "Waarom kunnen verschillende ideeën nuttig zijn?",
+        [
+          "Ze kunnen de groep helpen om betere oplossingen te vinden",
+          "Ze zorgen altijd voor ruzie",
+          "Iedereen hoeft dan niets te doen"
+        ],
+        0,
+        "De eerste alinea zegt dat verschillende ideeën kunnen helpen."
+      ],
+      [
+        "Wat helpt bij het verdelen van het werk?",
+        [
+          "Geen afspraken maken",
+          "Afspreken wie wat doet en wanneer het klaar is",
+          "Eén leerling alles laten doen"
+        ],
+        1,
+        "De tweede alinea noemt duidelijke afspraken."
+      ],
+      [
+        "Wat betekent samenwerken volgens de tekst?",
+        [
+          "Altijd hetzelfde denken",
+          "Respectvol overleggen en samen een oplossing zoeken",
+          "Nooit hulp vragen"
+        ],
+        1,
+        "Dat is de uitleg in de laatste alinea."
+      ]
+    ]
+  },
+  {
+    "id": "extra28",
+    "title": "Een regenboog in de lucht",
+    "topic": "Wetenschap",
+    "level": "Makkelijk",
+    "icon": "🌈",
+    "mins": 6,
+    "story": "Een regenboog zie je soms wanneer de zon schijnt terwijl er regendruppels in de lucht hangen. Zonlicht lijkt wit, maar bestaat uit verschillende kleuren. In een regendruppel wordt het licht gebroken en weerkaatst.\n\nDoordat de kleuren niet allemaal op dezelfde manier afbuigen, worden ze uit elkaar gehaald. Zo zie je een boog met onder andere rood, oranje, geel, groen, blauw en violet.\n\nJe ziet een regenboog meestal wanneer de zon achter je staat en de regen voor je valt. Als je naar de regenboog toe loopt, verdwijnt hij vaak of lijkt hij te verschuiven.",
+    "questions": [
+      [
+        "Wanneer kun je een regenboog zien?",
+        [
+          "Als de zon schijnt en er regendruppels zijn",
+          "Alleen tijdens sneeuw",
+          "Wanneer het helemaal donker is"
+        ],
+        0,
+        "De eerste zin noemt zonlicht en regendruppels."
+      ],
+      [
+        "Waarom zie je verschillende kleuren?",
+        [
+          "Kleuren buigen verschillend af in de druppel",
+          "De wolken zijn geverfd",
+          "De regen bestaat uit gekleurde inkt"
+        ],
+        0,
+        "De tweede alinea legt uit dat de kleuren uit elkaar worden gehaald."
+      ],
+      [
+        "Waar staat de zon meestal ten opzichte van jou?",
+        [
+          "Voor je, in dezelfde richting als de regenboog",
+          "Achter je",
+          "Onder je voeten"
+        ],
+        1,
+        "De laatste alinea zegt dat de zon achter je staat."
+      ]
+    ]
+  },
+  {
+    "id": "extra29",
+    "title": "De oude vuurtoren",
+    "topic": "Avontuur",
+    "level": "Gemiddeld",
+    "icon": "🗼",
+    "mins": 6,
+    "story": "Aan de rand van het eiland stond een oude vuurtoren. Vroeger hielp het licht schepen om veilig langs de rotsachtige kust te varen. Nu gebruiken veel schepen moderne navigatiesystemen, maar de toren staat er nog steeds.\n\nOp een middag ontdekte Noor een smalle trap achter een deur die meestal op slot zat. Bovenin vond ze een logboek. Daarin hadden vuurtorenwachters jarenlang het weer, passerende schepen en bijzondere gebeurtenissen opgeschreven.\n\nNoor begreep dat de toren niet alleen een gebouw was. Het was ook een plek vol herinneringen aan mensen die de zee in de gaten hielden.",
+    "questions": [
+      [
+        "Waarvoor diende de vuurtoren vroeger?",
+        [
+          "Om schepen te helpen veilig te varen",
+          "Om vliegtuigen te laten landen",
+          "Om vissen te lokken"
+        ],
+        0,
+        "De eerste alinea beschrijft de functie van het licht."
+      ],
+      [
+        "Wat vond Noor bovenin?",
+        [
+          "Een schatkist",
+          "Een logboek van vuurtorenwachters",
+          "Een nieuwe navigatiecomputer"
+        ],
+        1,
+        "Dat staat in de tweede alinea."
+      ],
+      [
+        "Waarom is de toren volgens Noor bijzonder?",
+        [
+          "Hij is van goud gemaakt",
+          "Hij bewaart herinneringen en verhalen",
+          "Hij kan zelf varen"
+        ],
+        1,
+        "De laatste alinea geeft Noors conclusie."
+      ]
+    ]
+  },
+  {
+    "id": "extra30",
+    "title": "Waarom recyclen we papier?",
+    "topic": "Milieu",
+    "level": "Gemiddeld",
+    "icon": "♻️",
+    "mins": 6,
+    "story": "Papier wordt gemaakt van vezels, meestal uit hout. Voor nieuw papier zijn grondstoffen, water en energie nodig. Door oud papier in te zamelen, kunnen de vezels opnieuw worden gebruikt.\n\nIn een fabriek wordt het ingezamelde papier eerst gesorteerd en daarna met water tot pulp gemaakt. Inkt en andere vervuiling worden zo veel mogelijk verwijderd. Van de pulp kan nieuw papier worden gemaakt.\n\nPapiervezels worden bij iedere recyclingronde korter. Daarom kunnen ze niet eindeloos opnieuw worden gebruikt. Toch helpt papier recyclen om minder nieuwe grondstoffen nodig te hebben.",
+    "questions": [
+      [
+        "Waarom is papier recyclen nuttig?",
+        [
+          "Er zijn minder nieuwe grondstoffen nodig",
+          "Papier wordt onverwoestbaar",
+          "Er is geen water meer nodig"
+        ],
+        0,
+        "De eerste en laatste alinea noemen het besparen van grondstoffen."
+      ],
+      [
+        "Wat is pulp?",
+        [
+          "Een mengsel van papiervezels en water",
+          "Een soort boom",
+          "Een drukmachine"
+        ],
+        0,
+        "De tweede alinea beschrijft dat papier met water tot pulp wordt gemaakt."
+      ],
+      [
+        "Waarom kan papier niet eindeloos worden gerecycled?",
+        [
+          "De vezels worden steeds korter",
+          "De kleur wordt altijd blauw",
+          "Papier wordt steeds zwaarder"
+        ],
+        0,
+        "Dat staat in de laatste alinea."
+      ]
+    ]
+  },
+  {
+    "id": "extra31",
+    "title": "De maanmissie",
+    "topic": "Ruimte",
+    "level": "Moeilijk",
+    "icon": "🌕",
+    "mins": 6,
+    "story": "Wanneer astronauten naar de maan reizen, moeten ze veel voorbereiden. Ze oefenen met hun ruimtepak, leren omgaan met gewichtloosheid en bestuderen het gebied waar ze gaan landen. Een kleine fout kan grote gevolgen hebben.\n\nOp de maan is bijna geen atmosfeer. Daarom is er geen lucht om te ademen en is er weinig bescherming tegen kleine meteorieten en straling. Astronauten hebben speciale apparatuur nodig om veilig te kunnen werken.\n\nOnderzoekers willen op de maan onder andere gesteente bestuderen en nieuwe technieken testen. Wat ze daar leren, kan later helpen bij langere reizen door de ruimte.",
+    "questions": [
+      [
+        "Waarom moeten astronauten veel oefenen?",
+        [
+          "Omdat een fout grote gevolgen kan hebben",
+          "Omdat de maan altijd warm is",
+          "Omdat er op de maan veel verkeer is"
+        ],
+        0,
+        "De eerste alinea noemt de risico's van fouten."
+      ],
+      [
+        "Waarom hebben astronauten speciale apparatuur nodig?",
+        [
+          "Er is bijna geen atmosfeer op de maan",
+          "Er zijn te veel bomen",
+          "De maan heeft veel zuurstof"
+        ],
+        0,
+        "De tweede alinea noemt gebrek aan lucht en bescherming."
+      ],
+      [
+        "Wat is een mogelijk voordeel van maanonderzoek?",
+        [
+          "Het kan helpen bij langere ruimtereizen",
+          "Het maakt de maan groter",
+          "Het zorgt voor meer regen op aarde"
+        ],
+        0,
+        "De laatste zin zegt dat de kennis later kan helpen."
+      ]
+    ]
+  },
+  {
+    "id": "extra32",
+    "title": "De hond als speurneus",
+    "topic": "Dieren",
+    "level": "Gemiddeld",
+    "icon": "🐕",
+    "mins": 6,
+    "story": "Honden kunnen geuren waarnemen die mensen niet eens opmerken. In hun neus zitten veel meer reukreceptoren dan in de menselijke neus. Daardoor kunnen sommige honden bijvoorbeeld vermiste personen of bepaalde stoffen opsporen.\n\nEen speurhond leert stap voor stap om een bepaalde geur te herkennen. De trainer beloont de hond wanneer hij de juiste geur vindt. Zo leert de hond dat zoeken een taak is die iets oplevert.\n\nNiet iedere hond wordt speurhond. Het vraagt veel training, geduld en een hond die graag samenwerkt met zijn begeleider.",
+    "questions": [
+      [
+        "Waarom kunnen honden goed geuren opsporen?",
+        [
+          "Ze hebben veel reukreceptoren",
+          "Ze zien geuren als kleuren",
+          "Ze kunnen zonder training alles vinden"
+        ],
+        0,
+        "De eerste alinea noemt de reukreceptoren."
+      ],
+      [
+        "Hoe leert een speurhond een geur herkennen?",
+        [
+          "Door beloning bij het vinden van de juiste geur",
+          "Door alleen naar andere honden te kijken",
+          "Door nooit te oefenen"
+        ],
+        0,
+        "De tweede alinea beschrijft training met beloningen."
+      ],
+      [
+        "Welke eigenschap is ook belangrijk voor een speurhond?",
+        [
+          "Hij moet graag samenwerken",
+          "Hij moet altijd slapen",
+          "Hij mag niet luisteren"
+        ],
+        0,
+        "De laatste zin noemt samenwerken met de begeleider."
+      ]
+    ]
+  },
+  {
+    "id": "extra33",
+    "title": "De brug van papier",
+    "topic": "Techniek",
+    "level": "Moeilijk",
+    "icon": "📐",
+    "mins": 6,
+    "story": "Kan een brug van papier een stapel boeken dragen? Dat hangt af van de vorm. Een plat vel papier buigt snel door wanneer je er gewicht op zet. Vouw je het papier als een harmonica, dan wordt het veel steviger.\n\nDoor de vouwen wordt het gewicht over meerdere delen verdeeld. Ingenieurs gebruiken hetzelfde principe bij echte constructies: de vorm en verdeling van materiaal zijn minstens zo belangrijk als de hoeveelheid materiaal.\n\nJe kunt het zelf onderzoeken met twee stapels boeken, een vel papier en een paar muntjes. Vergelijk een plat vel met een gevouwen vel en tel hoeveel muntjes beide bruggen kunnen dragen.",
+    "questions": [
+      [
+        "Waarom buigt een plat vel papier snel door?",
+        [
+          "Het heeft weinig stevigheid in die vorm",
+          "Het is te zwaar",
+          "Het bevat metaal"
+        ],
+        0,
+        "De eerste alinea zegt dat een plat vel snel doorbuigt."
+      ],
+      [
+        "Wat doen de vouwen?",
+        [
+          "Ze verdelen het gewicht over meerdere delen",
+          "Ze maken het papier nat",
+          "Ze halen het gewicht weg"
+        ],
+        0,
+        "Dat wordt uitgelegd in de tweede alinea."
+      ],
+      [
+        "Wat wil de schrijver dat je doet?",
+        [
+          "Een proefje uitvoeren en vormen vergelijken",
+          "Een echte brug bouwen over een rivier",
+          "Papier weggooien"
+        ],
+        0,
+        "De laatste alinea beschrijft een experiment."
+      ]
+    ]
+  },
+  {
+    "id": "extra34",
+    "title": "De mysterieuze voetstappen",
+    "topic": "Mysterie",
+    "level": "Moeilijk",
+    "icon": "👣",
+    "mins": 6,
+    "story": "In de verse sneeuw zag Yara een rij voetstappen die naar het schuurtje liep. Ze waren klein en stonden dicht bij elkaar. Naast de deur lagen een paar omgevallen bloempotten.\n\nYara dacht eerst aan een inbreker. Maar toen ze beter keek, zag ze dat de afdrukken kleine teentjes hadden. Bovendien liep het spoor niet naar buiten, maar langs een opening onder het hek.\n\nAchter het schuurtje zat een egel tussen de bladeren. De bloempotten waren waarschijnlijk omgevallen toen het dier erlangs scharrelde. Yara haalde opgelucht adem en zette de potten weer recht.",
+    "questions": [
+      [
+        "Waarom denkt Yara eerst aan een inbreker?",
+        [
+          "Ze ziet voetstappen naar het schuurtje",
+          "Ze hoort glas breken",
+          "De deur staat open"
+        ],
+        0,
+        "De eerste alinea noemt de voetstappen en omgevallen potten."
+      ],
+      [
+        "Welke aanwijzing helpt haar het raadsel op te lossen?",
+        [
+          "De afdrukken hebben kleine teentjes en het spoor loopt onder het hek",
+          "Er ligt een sleutel",
+          "Het sneeuwt niet meer"
+        ],
+        0,
+        "De tweede alinea geeft de aanwijzingen."
+      ],
+      [
+        "Welk dier heeft waarschijnlijk de potten omgestoten?",
+        [
+          "Een kat",
+          "Een egel",
+          "Een hond"
+        ],
+        1,
+        "De egel wordt achter het schuurtje gevonden."
+      ]
+    ]
+  },
+  {
+    "id": "extra35",
+    "title": "Waarom hebben we regels in het verkeer?",
+    "topic": "Samenleving",
+    "level": "Makkelijk",
+    "icon": "🚦",
+    "mins": 6,
+    "story": "Op straat gebruiken mensen verschillende vervoermiddelen. Fietsers, voetgangers, auto's en bussen delen vaak dezelfde ruimte. Verkeersregels helpen om te voorkomen dat iedereen zomaar door elkaar rijdt.\n\nEen rood verkeerslicht betekent dat je moet stoppen. Een zebrapad geeft voetgangers een plek om veilig over te steken. Door duidelijke afspraken weten weggebruikers beter wat ze van elkaar kunnen verwachten.\n\nToch zijn regels alleen niet genoeg. Je moet ook goed opletten en rekening houden met anderen. Zelfs als je voorrang hebt, is het verstandig om te controleren of de weg vrij is.",
+    "questions": [
+      [
+        "Waarom zijn verkeersregels nodig?",
+        [
+          "Om het verkeer veiliger en duidelijker te maken",
+          "Om iedereen langzamer te laten lopen",
+          "Om wegen smaller te maken"
+        ],
+        0,
+        "De eerste alinea legt uit dat regels botsingen helpen voorkomen."
+      ],
+      [
+        "Wat betekent een rood verkeerslicht?",
+        [
+          "Doorlopen",
+          "Stoppen",
+          "Achteruit fietsen"
+        ],
+        1,
+        "Dat staat in de tweede alinea."
+      ],
+      [
+        "Wat moet je naast regels nog doen?",
+        [
+          "Goed opletten en rekening houden met anderen",
+          "Altijd haast hebben",
+          "Alleen naar je telefoon kijken"
+        ],
+        0,
+        "De laatste alinea noemt opletten en rekening houden met anderen."
+      ]
+    ]
+  },
+  {
+    "id": "extra36",
+    "title": "De reis van een zaadje",
+    "topic": "Natuur",
+    "level": "Gemiddeld",
+    "icon": "🌱",
+    "mins": 6,
+    "story": "Een paardenbloem maakt pluizige zaadjes die door de wind kunnen worden meegenomen. Elk zaadje heeft een klein pluisje dat werkt als een parachute. Zo kan het soms ver van de moederplant terechtkomen.\n\nAls een zaadje op een geschikte plek landt, kan het gaan kiemen. Daarvoor heeft het meestal water, zuurstof en de juiste temperatuur nodig. Eerst verschijnt een klein worteltje. Daarna groeit er een stengeltje met blaadjes.\n\nNiet ieder zaadje wordt een volwassen plant. Sommige komen op een plek terecht waar te weinig licht of water is. Andere worden opgegeten. Toch verspreiden planten op deze manier hun soort over nieuwe plekken.",
+    "questions": [
+      [
+        "Waarvoor dient het pluisje aan een paardenbloemzaadje?",
+        [
+          "Als parachute om met de wind mee te gaan",
+          "Om water op te slaan",
+          "Om dieren te lokken"
+        ],
+        0,
+        "De eerste alinea vergelijkt het pluisje met een parachute."
+      ],
+      [
+        "Wat heeft een zaadje meestal nodig om te kiemen?",
+        [
+          "Water, zuurstof en de juiste temperatuur",
+          "Alleen zand",
+          "Volledige duisternis"
+        ],
+        0,
+        "De tweede alinea noemt deze voorwaarden."
+      ],
+      [
+        "Waarom worden niet alle zaadjes volwassen planten?",
+        [
+          "Sommige vinden niet genoeg licht of water of worden opgegeten",
+          "Ze kunnen niet door de wind reizen",
+          "Alle zaden zijn hetzelfde"
+        ],
+        0,
+        "De derde alinea noemt verschillende oorzaken."
+      ]
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    environment:
+      NODE_ENV: production
+      PORT: 3000
+      SESSION_SECRET: ${SESSION_SECRET:?Set SESSION_SECRET in .env}
+      DATABASE_URL: postgresql://leesheld:${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}@db:5432/leesheld?schema=public
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "3000:3000"
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: leesheld
+      POSTGRES_USER: leesheld
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+    volumes:
+      - leesheld_pg:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U leesheld -d leesheld"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+volumes:
+  leesheld_pg:
